@@ -2,8 +2,7 @@
 
 ✨ Currently a CS Statistics double major student at SFU\
 ✨ Previously worked as a software developer at HERE Canada\
-✨ An independent web developer\
-✨ Interest in machine learning & big data
+✨ An independent web developer
 <!--
 **jiaranyu/jiaranyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
